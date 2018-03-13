@@ -1,6 +1,6 @@
+
 class Numberx:
     def __init__(self,value):
         self.value = value
-
-    def minus(numero):
-        self.value -= numero
+    def plus(self, n)
+        self.value = self.value + n
