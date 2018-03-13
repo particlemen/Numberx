@@ -13,4 +13,7 @@ class Numberx:
         self.value = self.value / n
     def raisedupto(self,n):
         self.value = self.value**n
-
+    def mod(self,n):
+        self.value = self.value%n
+    def value(self):
+        return self.value
